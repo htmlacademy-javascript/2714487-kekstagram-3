@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
 * Студент: [Светлана Савинова](https://up.htmlacademy.ru/javascript-individual/3/user/2714487).
-* Наставник: `Неизвестно`.
+* Наставник: [Алексей Хапов](https://htmlacademy.ru/profile/id118459).
 
 ---
 
